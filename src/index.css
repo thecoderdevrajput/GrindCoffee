@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+.poppins{
+    font-family: "Poppins", serif;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+  .lato{
+    font-family: "Lato", serif;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+ 
+.alegreya{
+  font-family: "Alegreya", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
